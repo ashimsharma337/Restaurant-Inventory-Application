@@ -1,1 +1,1 @@
-# react-test
+# React Inventory Application
